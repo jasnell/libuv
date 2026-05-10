@@ -1,0 +1,27 @@
+test/test-udp-configure.c
+  77b7b2b0350b6775 67-71,73
+test/test-udp-ecn.c
+  77b7b2b0350b6775 67-72,74
+src/win/udp.c
+  77b7b2b0350b6775 470-471,474
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "13e37e17a282fc657cf07c63c9bd0732ac9022a3",
+  "prompts": {
+    "77b7b2b0350b6775": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1ee04cd30ffeKy9aNvQpO82HQD",
+        "model": "anthropic/claude-opus-4-6"
+      },
+      "human_author": "James M Snell",
+      "messages": [],
+      "total_additions": 16,
+      "total_deletions": 3,
+      "accepted_lines": 16,
+      "overriden_lines": 0
+    }
+  }
+}

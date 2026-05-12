@@ -1,0 +1,23 @@
+test/test-fs.c
+  56e094192e6e0a6e 3328-3334
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "3c4d8d136e497d7392f281008f85409a8e5ff812",
+  "prompts": {
+    "56e094192e6e0a6e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1e18db881ffeaPFj2pkLevmN4S",
+        "model": "anthropic/claude-opus-4-6"
+      },
+      "human_author": "James M Snell",
+      "messages": [],
+      "total_additions": 13,
+      "total_deletions": 0,
+      "accepted_lines": 7,
+      "overriden_lines": 0
+    }
+  }
+}

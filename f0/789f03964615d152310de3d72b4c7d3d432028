@@ -1,0 +1,37 @@
+include/uv.h
+  97fd9a280aaaaa8f 368-369,1694-1725
+src/unix/fs.c
+  97fd9a280aaaaa8f 60-67,69-70,73,76-84,89,91-92,94,115,117,121,123,127,129,304-305,321-322,333-334,1222-1223,1238-1239,1244-1245,1252-1253,1270-1271,1278-1279,2022-2024,2036-2102,2105,2386-2388
+include/uv/unix.h
+  97fd9a280aaaaa8f 364-366
+test/test-fs.c
+  97fd9a280aaaaa8f 3208-3627
+src/win/fs.c
+  97fd9a280aaaaa8f 166,168-170,175-194,2577-2579,2583,2585-2586,2588-2589,2592-2593,2596,2606-2608,3728-3730,3745-3801,3810-3811,3821
+docs/src/fs.rst
+  97fd9a280aaaaa8f 466-498
+include/uv/win.h
+  97fd9a280aaaaa8f 502-504
+test/test-list.h
+  97fd9a280aaaaa8f 402-408,1127-1133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "f0789f03964615d152310de3d72b4c7d3d432028",
+  "prompts": {
+    "97fd9a280aaaaa8f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1e5fcf210ffeNmMS9ud0iMCswR",
+        "model": "anthropic/claude-opus-4-6"
+      },
+      "human_author": "James M Snell",
+      "messages": [],
+      "total_additions": 735,
+      "total_deletions": 72,
+      "accepted_lines": 730,
+      "overriden_lines": 0
+    }
+  }
+}
